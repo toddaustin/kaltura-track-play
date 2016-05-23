@@ -1,3 +1,4 @@
+```javascript
 mw.setConfig('Kaltura.EnableEmbedUiConfJs', true);
        
     var urlObject = {
@@ -22,3 +23,4 @@ mw.setConfig('Kaltura.EnableEmbedUiConfJs', true);
             kdp.kUnbind('.test');
         });
     });
+```
