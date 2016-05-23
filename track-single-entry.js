@@ -5,7 +5,7 @@ var urlObject = {
 };
 
 function trackUsage(myURL) {
-// #track-uage is an hidden iframe
+// #track-uage is a hidden iframe
  $('#track-usage').attr("src", myURL);
 };
 
