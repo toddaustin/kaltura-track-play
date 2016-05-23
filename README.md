@@ -1,3 +1,3 @@
 # kaltura-track-play
-tracking link for entry id of video
-oh yeah
+Snippet for using a tracking link to tell when a video is played. 
+Tracking link is opened in a hidden iframe with the id of track-usage.
