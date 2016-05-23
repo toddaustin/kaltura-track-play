@@ -1,7 +1,7 @@
 mw.setConfig('Kaltura.EnableEmbedUiConfJs', true);
        
 var urlObject = {
- "0_djht56n5" : {url: "http://www.example.com}
+ "0_djht56n5" : {url: "http://www.example.com"}
 };
 
 function trackUsage(myURL) {
